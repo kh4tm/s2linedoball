@@ -1,13 +1,5 @@
+                            <script>
 
-
-                            <script type="text/javascript">
-
-                            /***********************************************
-                            * Floating Top Bar script- &#169; Dynamic Drive (www.dynamicdrive.com)
-                            * Sliding routine by Roy Whittle (http://www.javascript-fx.com/)
-                            * This notice must stay intact for legal use.
-                            * Visit http://www.dynamicdrive.com/ for full source code
-                            ***********************************************/
 
                             var persistclose=0 //set to 0 or 1. 1 means once the bar is manually closed, it will remain closed for browser session
                             var startX = 30 //set x offset of bar in pixels
@@ -81,5 +73,3 @@
                             else if (document.getElementById)
                             window.onload=staticbar
                             </script>
-
-                        
